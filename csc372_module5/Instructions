@@ -1,0 +1,31 @@
+Module 5 Instructions
+
+Implementing Recursion to Provide a Product
+
+Using recursion, create a program that allows a user to enter five numbers.
+	The program will then provide the product of all five numbers using recursive methods.
+
+What to submit?
+	Your source code in text version (not screenshot).
+	Your entire IDE screenshot displaying source code and output.
+	Include additional output screenshots displaying different test cases.
+	Screenshot of your version control or GIT repository link 
+	Attach all these components into a single Microsoft Word document or submit a zip file containing all of these components. 
+
+------------------------------------------------------------------------------------------------------------
+
+Basic idea:
+	Get 5 numbers from user for input
+	Numbers added to an array
+	array(element) * array(element + 1)
+	product (array(element + 1)
+	return productSum
+
+
+
+
+
+
+
+
+
