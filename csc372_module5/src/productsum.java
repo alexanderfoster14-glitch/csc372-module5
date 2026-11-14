@@ -1,6 +1,11 @@
 
 public class productsum{
 	
+	public static void sumProduct(double[] array) {
+		
+		
+	}
+	
 	public static void main (String args[]) {
 		double[] numbs = new double[5];
 		numbs[0] = 2;
@@ -16,6 +21,7 @@ public class productsum{
 		System.out.println("Product of numbers is "
 			+ numbs[0] * numbs[1] * numbs[2] * numbs[3] * numbs[4]);
 		
+		sumProduct(numbs);
 		
 		
 	}
