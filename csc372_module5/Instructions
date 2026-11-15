@@ -21,7 +21,25 @@ Basic idea:
 	product (array(element + 1)
 	return productSum
 
+App window:
 
+-----------------------------------------
+|	<Title>								|
+|---------------------------------------|
+|<text field> "Enter 5 numbers below"	|
+|---------------------------------------|
+|<text field> <input area 1>			|
+|<text field> <input area 2>			|
+|<text field> <input area 3>			|
+|<text field> <input area 4>			|
+|<text field> <input area 5>			|
+|---------------------------------------|
+|<button> "Calc total"					|
+|---------------------------------------|
+|<text field> <sumTotal>				|
+|---------------------------------------|
+|<button> exit							|
+-----------------------------------------
 
 
 
